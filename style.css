@@ -1,18 +1,17 @@
 body {
-    background-color: #f4e4bc;
-    font-family: Arial;
-    padding: 60px;
+  background-color: lightblue; 
+  font-family: Arial, sans-serif;
 }
 
 h1 {
-    color: #d35400;
-    font-size: 48px;
-    text-align: center;
+  color: darkblue;
+  margin-top: 20px;
 }
 
 img {
-    width: 400px;
-    max-width: 100%;
-    border-radius: 10px;
-    margin: 20px 0;
+  width: 400px;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+  align-items: center;
 }
